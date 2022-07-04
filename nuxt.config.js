@@ -41,9 +41,4 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   },
-  // To host on GitHub pages:
-  target: 'static',
-  router: {
-    base: '/<repository-name>/'
-  }
 }
